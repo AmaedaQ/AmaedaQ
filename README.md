@@ -84,7 +84,7 @@ An **NLP-based chatbot** for automated customer service and real-time assistance
   <a href="https://github.com/AmaedaQ">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:amaedaqureshi@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
   </a>
 </p>  
