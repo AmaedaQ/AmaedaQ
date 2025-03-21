@@ -1,34 +1,42 @@
-<h1 align="center">Hi, I'm Amaeda Qureshi! 👋</h1>  
+<h1 align="center">🚀 Amaeda Qureshi</h1>  
 <p align="center">
-🚀 Full-Stack Developer | AI & Machine Learning Enthusiast | CS Graduate  
+  <strong>Full-Stack Developer | AI & Machine Learning Enthusiast | CS Graduate</strong>  
+</p>  
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Building+Scalable+Web+Apps;Exploring+AI+%26+Machine+Learning;Passionate+About+Open+Source" />
 </p>  
 
 ---
 
 ## 🌟 About Me  
 
-I am a **Computer Science graduate** with a strong foundation in **Software Engineering, AI, and Cloud Technologies**. I specialize in designing and developing **scalable, high-performance applications** using modern web and AI-driven technologies. Passionate about **machine learning, microservices, and cloud infrastructure**, I am constantly learning and contributing to open-source projects.  
+I am a **Computer Science graduate** with a passion for **Full-Stack Development, AI, and Open Source Contributions**. I specialize in building **scalable, high-performance applications** and integrating AI solutions into real-world projects.  
 
-🔹 **Proficient in:** Full-Stack Development (MERN) | AI & ML | Microservices | DevOps  
-🔹 **Exploring:** Deep Learning, NLP, and Scalable System Architectures  
-🔹 **Passionate About:** AI-powered applications and next-gen web development  
+💡 **Key Focus Areas:**  
+✔ Full-Stack Web Development (MERN, Next.js)  
+✔ AI & Machine Learning (Deep Learning, NLP, Computer Vision)  
+✔ Microservices & Cloud-Native Applications  
+✔ Open-Source Development & DevOps  
+
+🌎 Always learning, collaborating, and pushing the boundaries of **technology & innovation**.  
 
 ---
 
-## 💻 Tech Stack  
+## 🛠️ Tech Stack  
 
-### **Programming & Frameworks**  
+#### 🚀 **Programming & Frameworks**  
 - **Languages:** JavaScript (ES6+), TypeScript, Python  
 - **Frontend:** React.js, Next.js, TailwindCSS, Material-UI  
 - **Backend:** Node.js, Express.js, GraphQL, REST APIs  
 - **Databases:** MongoDB, PostgreSQL, Firebase  
 
-### **AI & Machine Learning**  
+#### 🤖 **AI & Machine Learning**  
 - **Frameworks:** TensorFlow, PyTorch, OpenCV  
-- **Specializations:** NLP, Computer Vision, Deep Learning  
+- **Domains:** NLP, Computer Vision, Deep Learning  
 - **AI Deployment:** FastAPI, Flask, Hugging Face Models  
 
-### **DevOps & Cloud**  
+#### ☁️ **DevOps & Cloud**  
 - **Cloud Platforms:** AWS, Railway, Vercel, Netlify  
 - **CI/CD:** GitHub Actions, Docker, Kubernetes  
 - **Monitoring & Security:** Prometheus, Grafana, JWT Authentication  
@@ -67,7 +75,7 @@ An **NLP-based chatbot** for automated customer service and real-time assistance
 
 ---
 
-## 🎯 Connect with Me  
+## 📫 Connect with Me  
 
 <p align="center">
   <a href="https://www.linkedin.com/in/amaeda-qureshi-305bb928a"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
@@ -77,4 +85,4 @@ An **NLP-based chatbot** for automated customer service and real-time assistance
 
 ---
 
-### 🚀 Let's Build the Future Together!  
+### 🎯 **Let's Build the Future Together! 🚀**  
