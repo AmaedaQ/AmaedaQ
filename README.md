@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&duration=3000&pause=1000&color=4682B4&center=true&vCenter=true&width=550&lines=Hey%2C+I'm+Amaeda+Qureshi!;Full-Stack+Developer+%7C+AI+%26+ML+Enthusiast;Building+Scalable+Web+%26+AI+Solutions;Passionate+About+Tech+%7C+Open+Source+%7C+Cloud" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=580&lines=Hey%2C+I'm+Amaeda+Qureshi!;Full-Stack+Developer+%7C+AI+%26+ML+Enthusiast;Building+Scalable+Web+%26+AI+Solutions;Passionate+About+Tech+%7C+Open+Source+%7C+Cloud" />
 </h1>
 
 <p align="center">
@@ -10,7 +10,7 @@
 
 ## 🏆 **GitHub Achievements**
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AmaedaQ&theme=transparent&no-frame=true&margin-w=10&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AmaedaQ&theme=onestar&no-frame=true&margin-w=10&row=1&column=6" />
 </p>
 
 ---
@@ -23,7 +23,7 @@
 
 ---
 
-## ⚡ **Tech Stack**
+## 🚀 **Tech Stack**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,python,tensorflow,docker,kubernetes,aws,vercel,git,github,linux" />
 </p>
@@ -47,8 +47,8 @@
 
 ## 📊 **GitHub Stats**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AmaedaQ&show_icons=true&theme=transparent&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmaedaQ&theme=transparent" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AmaedaQ&show_icons=true&theme=radical&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmaedaQ&theme=radical" width="48%" />
 </p>  
 
 ---
@@ -70,7 +70,7 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="mailto:amaedaqureshi@gmail.com">
-    <img src="https://img.shields.io/badge/Email-5C5C5C?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-FF5733?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
