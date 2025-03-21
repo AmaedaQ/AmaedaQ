@@ -6,6 +6,10 @@
   <img src="https://github.com/AmaedaQ/AmaedaQ/blob/main/banner.png" width="100%" alt="GitHub Banner"/>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AmaedaQ&style=flat-square&color=blue" alt="Profile Views"/>
+</p>
+
 ---
 
 ## 🏆 **GitHub Achievements**
@@ -31,17 +35,28 @@
 ---
 
 ## 📌 **Featured Projects**
-🔹 **[E-Commerce Microservices](https://github.com/AmaedaQ/ecommerce-microservices)**  
-📌 A scalable e-commerce platform with **real-time order tracking** using microservices.  
-🛠 **Tech Stack:** Node.js, Express, MongoDB, Kafka, Redis, Docker  
-
-🔹 **[AI-Powered Job Portal](https://github.com/AmaedaQ/job-portal)**  
-📌 AI-driven job recommendations for **seekers & recruiters**.  
-🛠 **Tech Stack:** React, Node.js, MongoDB, TensorFlow, FastAPI  
-
-🔹 **[Customer Support AI Chatbot](https://github.com/AmaedaQ/customer-support-chatbot)**  
-📌 NLP-based chatbot for **automated customer interactions**.  
-🛠 **Tech Stack:** Python, TensorFlow, Flask, OpenAI GPT  
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/AmaedaQ/ecommerce-microservices">
+        <img src="https://img.shields.io/badge/E--Commerce_Microservices-Node.js,_MongoDB,_Kafka-blue?style=for-the-badge&logo=appveyor" />
+      </a>
+      <p>A scalable e-commerce platform with **real-time order tracking** using microservices.</p>
+      <p>🛠 **Tech Stack:** Node.js, Express, MongoDB, Kafka, Redis, Docker</p>
+      <img src="https://github.com/AmaedaQ/ecommerce-microservices/blob/main/demo.gif" width="80%" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/AmaedaQ/job-portal">
+        <img src="https://img.shields.io/badge/AI--Powered_Job_Portal-React,_TensorFlow,_FastAPI-green?style=for-the-badge&logo=appveyor" />
+      </a>
+      <p>AI-driven job recommendations for **seekers & recruiters**.</p>
+      <p>🛠 **Tech Stack:** React, Node.js, MongoDB, TensorFlow, FastAPI</p>
+      <img src="https://github.com/AmaedaQ/job-portal/blob/main/demo.gif" width="80%" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -74,7 +89,6 @@
   </a>
 </p>
 
-
 ---
 
-## 🎯 **Let's Build the Future Together! 🚀**  
+## 🎯 **Let's Build the Future Together! 🚀**
