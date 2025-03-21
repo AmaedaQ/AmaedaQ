@@ -1,13 +1,11 @@
+
+
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&duration=3000&pause=1000&color=1E90FF&center=true&vCenter=true&width=550&lines=Hey%2C+I'm+Amaeda+Qureshi!;Full-Stack+Developer+%7C+AI+%26+ML+Enthusiast;Building+Scalable+Web+%26+AI+Solutions;Passionate+About+Tech+%7C+Open+Source+%7C+Cloud" />
 </h1>
 
 <p align="center">
   <img src="https://github.com/AmaedaQ/AmaedaQ/blob/main/banner.png" width="100%" alt="GitHub Banner"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AmaedaQ&style=flat-square&color=blue" alt="Profile Views"/>
 </p>
 
 ---
@@ -35,28 +33,17 @@
 ---
 
 ## 📌 **Featured Projects**
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/AmaedaQ/ecommerce-microservices">
-        <img src="https://img.shields.io/badge/E--Commerce_Microservices-Node.js,_MongoDB,_Kafka-blue?style=for-the-badge&logo=appveyor" />
-      </a>
-      <p>A scalable e-commerce platform with **real-time order tracking** using microservices.</p>
-      <p>🛠 **Tech Stack:** Node.js, Express, MongoDB, Kafka, Redis, Docker</p>
-      <img src="https://github.com/AmaedaQ/ecommerce-microservices/blob/main/demo.gif" width="80%" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/AmaedaQ/job-portal">
-        <img src="https://img.shields.io/badge/AI--Powered_Job_Portal-React,_TensorFlow,_FastAPI-green?style=for-the-badge&logo=appveyor" />
-      </a>
-      <p>AI-driven job recommendations for **seekers & recruiters**.</p>
-      <p>🛠 **Tech Stack:** React, Node.js, MongoDB, TensorFlow, FastAPI</p>
-      <img src="https://github.com/AmaedaQ/job-portal/blob/main/demo.gif" width="80%" />
-    </td>
-  </tr>
-</table>
+🔹 **[E-Commerce Microservices](https://github.com/AmaedaQ/ecommerce-microservices)**  
+📌 A scalable e-commerce platform with **real-time order tracking** using microservices.  
+🛠 **Tech Stack:** Node.js, Express, MongoDB, Kafka, Redis, Docker  
+
+🔹 **[AI-Powered Job Portal](https://github.com/AmaedaQ/job-portal)**  
+📌 AI-driven job recommendations for **seekers & recruiters**.  
+🛠 **Tech Stack:** React, Node.js, MongoDB, TensorFlow, FastAPI  
+
+🔹 **[Customer Support AI Chatbot](https://github.com/AmaedaQ/customer-support-chatbot)**  
+📌 NLP-based chatbot for **automated customer interactions**.  
+🛠 **Tech Stack:** Python, TensorFlow, Flask, OpenAI GPT  
 
 ---
 
@@ -89,6 +76,7 @@
   </a>
 </p>
 
+
 ---
 
-## 🎯 **Let's Build the Future Together! 🚀**
+## 🎯 **Let's Build the Future Together! 🚀**  
