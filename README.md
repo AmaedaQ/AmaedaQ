@@ -1,73 +1,51 @@
-<h1 align="center" style="color:#1E90FF;">🚀 Amaeda Qureshi</h1>  
-<p align="center" style="font-size:18px;">
-  <strong>Full-Stack Developer | AI & Machine Learning Enthusiast | CS Graduate</strong>  
-</p>  
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&duration=3000&pause=1000&color=1E90FF&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Amaeda+Qureshi!;Full-Stack+Developer+%7C+AI+%26+ML+Enthusiast;Building+Scalable+Web+%26+AI+Solutions;Passionate+About+Tech+%7C+Open+Source+%7C+Cloud" />
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&duration=3000&pause=1000&color=1E90FF&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Apps+with+MERN;Exploring+AI+%26+Machine+Learning;Passionate+About+Open+Source;Deploying+Cloud-Native+Solutions;Writing+Efficient+and+Maintainable+Code" />
-</p>  
+  <img src="https://github.com/AmaedaQ/AmaedaQ/blob/main/banner.png" width="100%" />
+</p>
 
 ---
 
-## 🌟 About Me  
-
-🔹 I am a **Computer Science graduate** with a deep passion for **Full-Stack Development, AI, and Open Source**.  
-🔹 I specialize in **scalable, high-performance applications** leveraging **MERN, AI, and Microservices**.  
-🔹 Constantly evolving, learning, and contributing to **cutting-edge tech solutions**.  
-
-💡 **Key Focus Areas:**  
-✔ Full-Stack Web Development (MERN, Next.js)  
-✔ AI & Machine Learning (Deep Learning, NLP, Computer Vision)  
-✔ Microservices & Cloud-Native Applications  
-✔ Open-Source Development & DevOps  
+## 🏆 **GitHub Achievements**
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AmaedaQ&theme=dracula&no-frame=true&margin-w=10" />
+</p>
 
 ---
 
-## 🛠️ Tech Stack  
-
-#### 🚀 **Programming & Frameworks**  
-✅ **Languages:** JavaScript (ES6+), TypeScript, Python  
-✅ **Frontend:** React.js, Next.js, TailwindCSS, Material-UI  
-✅ **Backend:** Node.js, Express.js, REST APIs  
-✅ **Databases:** MongoDB, Firebase  
-
-#### 🤖 **AI & Machine Learning**  
-🤖 **Frameworks:** TensorFlow, PyTorch, OpenCV  
-🤖 **Domains:** NLP, Computer Vision, Deep Learning  
-🤖 **AI Deployment:** FastAPI, Flask, Hugging Face Models  
-
-#### ☁️ **DevOps & Cloud**  
-☁️ **Cloud Platforms:** AWS, Railway, Vercel, Netlify  
-☁️ **CI/CD:** GitHub Actions, Docker, Kubernetes  
-☁️ **Monitoring & Security:** Prometheus, Grafana, JWT Authentication  
+## 🌟 **About Me**
+🎓 **Computer Science Graduate** | 🚀 **Full-Stack Developer (MERN, Next.js, AI)**  
+💡 Passionate about **AI, Open Source, and Scalable Applications**  
+💻 Currently working on **AI-driven job platforms and automation**  
+📈 Exploring **Deep Learning, Cloud Technologies, and Microservices**  
 
 ---
 
-## 🚀 Featured Projects  
-
-### 🎯 [E-Commerce Microservices](https://github.com/AmaedaQ/ecommerce-microservices)  
-A **highly scalable microservices-based e-commerce platform** featuring authentication, payments, and real-time order tracking.  
-
-🔹 **Tech Stack:** Node.js, Express, MongoDB, Redis, Docker  
+## 🛠️ **Tech Stack**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,python,tensorflow,docker,kubernetes,aws,vercel,git,github,linux" />
+</p>
 
 ---
 
-### 🎯 [AI-Powered Job Portal](https://github.com/AmaedaQ/job-portal)  
-An **AI-powered job portal** that connects job seekers and employers with smart job recommendations.  
+## 📌 **Featured Projects**
+🚀 **[E-Commerce Microservices](https://github.com/AmaedaQ/ecommerce-microservices)**  
+🔹 Microservices-based e-commerce platform with real-time order tracking.  
+🔹 **Tech:** Node.js, Express, MongoDB, Kafka, Redis, Docker  
 
-🔹 **Tech Stack:** React, Node.js, MongoDB, TensorFlow, FastAPI  
+🤖 **[AI-Powered Job Portal](https://github.com/AmaedaQ/job-portal)**  
+🔹 Smart job recommendations using AI models.  
+🔹 **Tech:** React, Node.js, MongoDB, TensorFlow, FastAPI  
+
+💬 **[Customer Support AI Chatbot](https://github.com/AmaedaQ/customer-support-chatbot)**  
+🔹 NLP-based chatbot for automated customer interactions.  
+🔹 **Tech:** Python, TensorFlow, Flask, OpenAI GPT  
 
 ---
 
-### 🎯 [Customer Support AI Chatbot](https://github.com/AmaedaQ/customer-support-chatbot)  
-An **NLP-based chatbot** designed for automated customer service and real-time assistance.  
-
-🔹 **Tech Stack:** Python, TensorFlow, Flask, OpenAI GPT  
-
----
-
-## 📊 GitHub Stats  
-
+## 📊 **GitHub Stats**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AmaedaQ&show_icons=true&theme=github_dark&count_private=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmaedaQ&theme=github_dark" width="48%" />
@@ -75,8 +53,15 @@ An **NLP-based chatbot** designed for automated customer service and real-time a
 
 ---
 
-## 📫 Connect with Me  
+## 🔥 **What I'm Currently Up To**
+- 🚀 Building **AI-powered SaaS applications**
+- 🔍 Researching **LLMs & Generative AI**
+- 📚 Exploring **Cloud DevOps & Kubernetes**
+- 💡 Actively contributing to **Open Source**
 
+---
+
+## 📫 **Connect With Me**
 <p align="center">
   <a href="https://www.linkedin.com/in/amaeda-qureshi-305bb928a">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -87,9 +72,8 @@ An **NLP-based chatbot** designed for automated customer service and real-time a
   <a href="mailto:amaedaqureshi@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</p>  
+</p>
 
 ---
 
-## 🎯 Let's Innovate Together! 🚀  
-
+## 🎯 **Let's Build the Future Together! 🚀**  
