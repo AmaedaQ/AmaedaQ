@@ -28,8 +28,8 @@
 #### 🚀 **Programming & Frameworks**  
 🟢 **Languages:** JavaScript (ES6+), TypeScript, Python  
 🟢 **Frontend:** React.js, Next.js, TailwindCSS, Material-UI  
-🟢 **Backend:** Node.js, Express.js, GraphQL, REST APIs  
-🟢 **Databases:** MongoDB, PostgreSQL, Firebase  
+🟢 **Backend:** Node.js, Express.js, REST APIs  
+🟢 **Databases:** MongoDB, Firebase  
 
 #### 🤖 **AI & Machine Learning**  
 🧠 **Frameworks:** TensorFlow, PyTorch, OpenCV  
