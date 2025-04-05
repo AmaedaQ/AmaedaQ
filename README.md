@@ -1,7 +1,5 @@
-
-
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&duration=3000&pause=1000&color=1E90FF&center=true&vCenter=true&width=550&lines=Hey%2C+I'm+Amaeda+Qureshi!;Full-Stack+Developer+%7C+AI+%26+ML+Enthusiast;Building+Scalable+Web+%26+AI+Solutions;Passionate+About+Tech+%7C+Open+Source+%7C+Cloud" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&duration=3000&pause=1000&color=1E90FF&center=true&vCenter=true&width=550&lines=Hey%2C+I'm+Amaeda+Qureshi!;Full-Stack+Developer+%7C+AI+%26+ML+Enthusiast;Building+Scalable+Web+%26+AI+Solutions;Passionate+About+Tech%7C+Open+Source%7C+Cloud" />
 </h1>
 
 ---
@@ -72,7 +70,4 @@
   </a>
 </p>
 
-
 ---
-
-## 🎯 **Let's Build the Future Together! **  
