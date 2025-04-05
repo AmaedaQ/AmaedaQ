@@ -59,16 +59,17 @@
 ## 📫 **Let's Connect!**
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/amaeda-qureshi-305bb928a" target="_blank">
+  <a href="https://www.linkedin.com/in/amaeda-qureshi-305bb928a" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white&labelColor=1E90FF&color=1E90FF" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/AmaedaQ" target="_blank">
+  <a href="https://github.com/AmaedaQ" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=flat&logo=github&logoColor=white&labelColor=333333&color=333333" alt="GitHub" />
   </a>
-  <a href="mailto:amaedaqureshi@gmail.com" target="_blank">
+  <a href="mailto:amaedaqureshi@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=flat&logo=gmail&logoColor=white&labelColor=FF4500&color=FF4500" alt="Email" />
   </a>
 </p>
+
 
 
 
