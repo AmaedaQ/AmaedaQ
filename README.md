@@ -15,13 +15,12 @@
 🎓 **Computer Science Graduate** | 💻 **Full-Stack Developer (MERN, Next.js, AI)**  
 🚀 Passionate about **AI, Open Source, and Scalable Applications**  
 📈 Currently exploring **Deep Learning, Cloud Technologies, and Microservices**  
-⚡ Actively **contributing to Open Source & Building AI SaaS Solutions**  
 
 ---
 
 ## 🚀 **Tech Stack**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,python,tensorflow,docker,kubernetes,aws,vercel,git,github,linux" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,python,tensorflow,docker,aws,vercel,git,github" />
 </p>
 
 ---
@@ -53,7 +52,6 @@
 - 🏗️ Developing **AI-powered SaaS applications**
 - 🔍 Researching **LLMs & Generative AI**
 - ☁️ Exploring **Cloud DevOps & Kubernetes**
-- 💡 Actively contributing to **Open Source Projects**
 
 ---
 ## 📫 **Let's Connect!**
