@@ -34,9 +34,9 @@
 📌 AI-driven job recommendations for **seekers & recruiters**.  
 🛠 **Tech Stack:** React, Node.js, MongoDB, TensorFlow, FastAPI  
 
-🔹 **[Customer Support AI Chatbot](https://github.com/AmaedaQ/customer-support-chatbot)**  
-📌 NLP-based chatbot for **automated customer interactions**.  
-🛠 **Tech Stack:** Python, TensorFlow, Flask, OpenAI GPT  
+🔹 **[Rasa E-commerce Bot](https://github.com/AmaedaQ/rasa-ecommerce-bot)**  
+📌 Intelligent chatbot for e-commerce **customer support with order tracking and product assistance**.  
+🛠 **Tech Stack:** Python, Rasa 3.x, React, Node.js, spaCy NLP 
 
 ---
 
