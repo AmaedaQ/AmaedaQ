@@ -1,50 +1,54 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&duration=3000&pause=1000&color=1E90FF&center=true&vCenter=true&width=550&lines=Hey%2C+I'm+Amaeda+Qureshi!;Full-Stack+Engineer+%7C+AI+%26+ML+Builder;Scalable+Web+%2B+Intelligent+Systems;Open+to+Remote+Opportunities+%7C+Freelance+%7C+Collab" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=1E90FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Amaeda+Qureshi!;Full-Stack+Engineer+%7C+AI-Driven+Systems;Building+Scalable+Web+%26+ML+Solutions" />
 </h1>
 
 ---
 
-## 🧠 About Me
+##  About Me
 
-🎓 **CS Graduate** & 🛠️ **Full-Stack Developer** (React · Node.js · Python · SQL)  
-🤖 Focused on **AI-Powered Platforms**, Visual Search, and Smart Recommendations  
-☁️ Building real-world products with **Microservices**, Docker, Cloud, and NLP systems
+I’m a **Full-Stack Engineer** and **Computer Science graduate** with real-world experience building production-ready, AI-integrated platforms. I specialize in combining **robust backend engineering** with **intelligent AI features** — from visual search and recommender systems to NLP chatbots and scalable microservices.
 
-- 💡 Experienced in projects from **architecture to deployment**
-- 💬 Passionate about **open source**, clean code, and meaningful tech
-- 🌍 Open to **remote opportunities**, freelance work, and collaborations
+### Focus Areas:
+- AI-powered platforms (Visual Search, Recommendations, LLM tooling)
+- Modular REST APIs and microservices
+- Scalable frontend architecture using React & Next.js
+- Python-based AI/NLP integrations with Rasa, spaCy, TensorFlow
 
 ---
 
-## ⚙️ Tech Stack
+##  Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,mysql,python,fastapi,tensorflow,docker,kubernetes,vercel,git,github" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mysql,mongodb,python,rasa,tensorflow,docker,git,github,vercel" />
 </p>
 
 ---
 
-## 📌 Featured Projects
+##  Featured Projects
 
-🔹 **[VisualShop-AI](https://github.com/AmaedaQ/VisualShop-AI)**  
-🧠 Visual search + Gorse recommender system for e-commerce using CLIP, FAISS, Node.js  
-🛠 **Tech:** React, Node.js, Python, MySQL, Flask, Tailwind
+###  [VisualShop-AI](https://github.com/AmaedaQ/VisualShop-AI)  
+An AI-powered e-commerce platform with **CLIP-based visual search**, **Gorse recommendations**, and a complete Node.js + MySQL backend.  
+**Stack:** React, Node.js, MySQL, Python, FAISS, CLIP, Gorse, Tailwind
 
-🔹 **[E-Commerce Microservices](https://github.com/AmaedaQ/ecommerce-microservices)**  
-🛒 Scalable microservice-based marketplace with real-time order processing  
-🛠 **Tech:** Node.js, MongoDB, Kafka, Redis, Docker
+###  [JobConnect Pro](https://github.com/AmaedaQ/job-portal)  
+A full-featured job portal with AI-based job matching, resume filtering, and real-time recruiter tools.  
+**Stack:** React, Node.js, MongoDB, FastAPI, Tailwind
 
-🔹 **[AI Job Portal](https://github.com/AmaedaQ/job-portal)**  
-🔍 AI-driven job recommendations for seekers & recruiters  
-🛠 **Tech:** React, Node.js, MongoDB, FastAPI, TensorFlow
-
-🔹 **[Rasa E-Commerce Bot](https://github.com/AmaedaQ/rasa-ecommerce-bot)**  
-💬 Conversational chatbot for e-commerce customer service  
-🛠 **Tech:** Python, Rasa, spaCy NLP, React
+###  [Rasa E-Commerce Bot](https://github.com/AmaedaQ/rasa-ecommerce-bot)  
+Custom conversational assistant for online stores — handles orders, product queries, and support via Rasa 3.x.  
+**Stack:** Python, Rasa, React, spaCy, MongoDB
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AmaedaQ&theme=algolia&no-frame=true&margin-w=10&row=1&column=6" />
+</p>
+
+---
+
+##  Stats & Contributions
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AmaedaQ&show_icons=true&theme=tokyonight&count_private=true" width="48%" />
@@ -53,20 +57,11 @@
 
 ---
 
-## 🏆 GitHub Achievements
+##  Currently Exploring
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AmaedaQ&theme=algolia&no-frame=true&margin-w=10&row=1&column=6" />
-</p>
-
----
-
-## 🔭 What I'm Up To
-
-- 🏗️ Engineering **AI-first SaaS systems**
-- 🔍 Exploring **LLMs**, Generative AI, and Retrieval-Augmented Generation
-- ☁️ Building with **Cloud, CI/CD**, and containerized microservices
-
+- Developing **AI-powered SaaS products** using **Next.js**, **FastAPI**, and **Python**
+- Researching **LLMs**, **RAG pipelines**, and real-world **Generative AI** applications
+- Advancing skills in **Cloud Infrastructure**, **DevOps**, and **Containerization (Docker & Kubernetes)**
 ---
 
 ## 📫 Let’s Connect
@@ -79,9 +74,6 @@
     <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=flat&logo=github&logoColor=white" />
   </a>
   <a href="mailto:amaedaqureshi@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=flat&logo=gmail&logoColor=white" />
   </a>
 </p>
-
----
-
