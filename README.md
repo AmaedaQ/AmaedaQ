@@ -30,7 +30,7 @@ I’m a **Full-Stack Engineer** and **Computer Science graduate** with real-worl
 An AI-powered e-commerce platform with **CLIP-based visual search**, **Gorse recommendations**, and a complete Node.js + MySQL backend.  
 **Stack:** React, Node.js, MySQL, Python, FAISS, CLIP, Gorse, Tailwind
 
-###  [JobConnect Pro](https://github.com/AmaedaQ/job-portal)  
+###  [JobConnect Pro](https://github.com/AmaedaQ/Job_Portal/tree/main)  
 A full-featured job portal with AI-based job matching, resume filtering, and real-time recruiter tools.  
 **Stack:** React, Node.js, MongoDB, FastAPI, Tailwind
 
