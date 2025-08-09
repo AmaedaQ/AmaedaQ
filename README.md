@@ -67,6 +67,9 @@ Custom conversational assistant for online stores — handles orders, product qu
 ## 📫 Let’s Connect
 
 <p align="center">
+  <a href="https://amaeda.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%2300C7B7.svg?style=flat&logo=vercel&logoColor=white" />
+  </a>
   <a href="https://www.linkedin.com/in/amaeda-qureshi-305bb928a" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" />
   </a>
