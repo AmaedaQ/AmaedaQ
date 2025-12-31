@@ -51,8 +51,7 @@ Conversational assistant for online stores handling orders, product queries, and
 
 ## What I’m Looking For (2026)
 - Software Engineer (Backend / Full-Stack)
-- AI / ML Engineer (Applied AI, LLM tooling)
-- Junior–Mid roles with **real systems**, not toy tasks
+- Junior–Mid roles with **real systems**
 - Remote or on-site opportunities
 
 ---
