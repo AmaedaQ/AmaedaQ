@@ -11,7 +11,7 @@ Strong at taking ideas **from architecture → implementation → deployment**.
 ---
 
 ## Core Skills
-- **Languages:** JavaScript, TypeScript, Python
+- **Languages:** JavaScript, TypeScript, Python, SQL
 - **Frontend:** React, Next.js, Tailwind CSS, Bootstrap
 - **Backend:** Node.js, Express, FastAPI
 - **Databases:** MySQL, MongoDB
@@ -57,8 +57,12 @@ Conversational assistant for online stores handling orders, product queries, and
 
 ## GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AmaedaQ&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmaedaQ&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AmaedaQ&show_icons=true&theme=transparent&hide_border=true&title_color=1E90FF&icon_color=1E90FF&text_color=ffffff" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmaedaQ&layout=compact&theme=transparent&hide_border=true&title_color=1E90FF&text_color=ffffff" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmaedaQ&theme=transparent&hide_border=true&stroke=1E90FF&ring=1E90FF&fire=1E90FF&currStreakNum=ffffff" width="98%" />
 </p>
 
 ---
