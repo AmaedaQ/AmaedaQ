@@ -12,7 +12,7 @@ Strong at taking ideas **from architecture → implementation → deployment**.
 
 ## Core Skills
 - **Languages:** JavaScript, TypeScript, Python
-- **Frontend:** React, Next.js, Tailwind CSS
+- **Frontend:** React, Next.js, Tailwind CSS, Bootstrap
 - **Backend:** Node.js, Express, FastAPI
 - **Databases:** MySQL, MongoDB
 - **AI / ML:** NLP, RAG pipelines, CLIP, FAISS, spaCy, Rasa, TensorFlow
@@ -23,21 +23,20 @@ Strong at taking ideas **from architecture → implementation → deployment**.
 
 ## Projects
 
+### ELEVAT-SAP (Sukkur IBA Admission Portal)
+Advanced **University Admission Portal** with an integrated **AI Chatbot**. Features a standardized premium UI/UX, glassmorphism design, and real-time query handling for prospective students.
+
+**Tech:** React, Node.js, Bootstrap, Framer Motion, AI Integration  
+🔗 [GitHub Repo](https://github.com/AmaedaQ/FYP-ELEVAT-SAP) | 🌐 [Live Demo](https://fyp-elevat-sap.vercel.app/)
+
+---
+
 ### VisualShop-AI
 AI-powered e-commerce platform with **image-based product search** and **personalized recommendations**.  
 Built a full backend, vector search pipeline, and recommendation engine integration.
 
 **Tech:** React, Node.js, MySQL, Python, CLIP, FAISS, Gorse  
-🔗 https://github.com/AmaedaQ/VisualShop-AI
-
----
-
-### JobConnect Pro
-Job portal with **AI-based job matching**, resume parsing, and recruiter dashboards.  
-Designed scalable APIs and real-time workflows.
-
-**Tech:** React, Node.js, MongoDB, FastAPI  
-🔗 https://github.com/AmaedaQ/Job_Portal
+🔗 [GitHub Repo](https://github.com/AmaedaQ/VisualShop-AI)
 
 ---
 
@@ -45,7 +44,7 @@ Designed scalable APIs and real-time workflows.
 Conversational assistant for online stores handling orders, product queries, and support flows.
 
 **Tech:** Python, Rasa, spaCy, React, MongoDB  
-🔗 https://github.com/AmaedaQ/rasa-ecommerce-bot
+🔗 [GitHub Repo](https://github.com/AmaedaQ/rasa-ecommerce-bot)
 
 ---
 
@@ -65,6 +64,6 @@ Conversational assistant for online stores handling orders, product queries, and
 ---
 
 ## Links
-- Portfolio: https://amaeda.vercel.app  
-- LinkedIn: https://www.linkedin.com/in/amaeda-qureshi-305bb928a  
+- Portfolio: [amaeda.vercel.app](https://amaeda.vercel.app)  
+- LinkedIn: [Amaeda Qureshi](https://www.linkedin.com/in/amaeda-qureshi-305bb928a)  
 - Email: amaedaqureshi@gmail.com
