@@ -40,7 +40,7 @@ Conversational assistant for online stores, handling orders and product queries.
 
 ---
 
-## Career Goals (2026)
+## Career Goals
 Seeking **Backend / Full-Stack Developer** roles where I can contribute to real-world systems.  
 Open to both remote and on-site opportunities.
 
