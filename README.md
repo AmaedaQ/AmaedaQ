@@ -9,6 +9,22 @@ I care about whether things actually work in production, not just locally — ve
 
 ---
 
+## Open Source
+
+Contributions to widely-used Python libraries. Each one started by reading the source and
+finding an unreported defect, not by picking from an issue list.
+
+| Project | Contribution | Type | Status |
+| --- | --- | --- | --- |
+| **[redis/redis-py](https://github.com/redis/redis-py)** · 13.6k ★ | [#4387](https://github.com/redis/redis-py/pull/4387) — restore sync/async parity for `PubSub.get_sharded_message`, a method the async docstring documented but never defined | Pull request | Open · under review |
+| **[py-pdf/pypdf](https://github.com/py-pdf/pypdf)** · 10.2k ★ | [#4160](https://github.com/py-pdf/pypdf/pull/4160) — stop `update_page_form_field_values` crashing on a form field whose `/DA` lacks a complete `Tf` operator | Pull request | Open · under review |
+| **[py-pdf/pypdf](https://github.com/py-pdf/pypdf)** | [#4159](https://github.com/py-pdf/pypdf/issues/4159) — reported the above with a self-contained reproduction | Issue | Open |
+| **[deepset-ai/haystack](https://github.com/deepset-ai/haystack)** · 26.7k ★ | [#12954](https://github.com/deepset-ai/haystack/issues/12954) — spec analysis of CommonMark fence handling in `MarkdownHeaderSplitter`; measured two inputs where the proposed regex diverges from a real parser | Design review | In discussion |
+
+→ **[All my pull requests, live](https://github.com/pulls?q=is%3Apr+author%3AAmaedaQ+sort%3Aupdated-desc)**
+
+---
+
 ## Core Stack
 
 **Frontend**
